@@ -49,19 +49,15 @@ Both methods produced robust models, with predictions that closely match actual 
 
 ## How to Run This Project
 
-1. Clone the repository and install the necessary dependencies:
+1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd house-price-prediction
-   pip install -r requirements.txt
+   git clone <https://github.com/vamsi51080/HousePricePrediction/>
+   
    ```
 
 2. Download the dataset used in the project [here](<!wget https://nkb-backend-otg-media-static.s3.ap-south-1.amazonaws.com/otg_prod/media/Tech_4.0/AI_ML/Datasets/house_price_prediction.csv>) and place it in the root directory.
 
-3. Run the Jupyter notebook or Python script to execute the linear regression model:
-   ```bash
-   jupyter notebook house_price_prediction.ipynb
-   ```
+
 
 ## Why This Project Matters
 
