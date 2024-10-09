@@ -52,7 +52,7 @@ Both methods produced robust models, with predictions that closely match actual 
 1. Clone the repository:
    ```bash
    git clone <https://github.com/vamsi51080/HousePricePrediction/>
-   
+   cd HousePricePrediction
    ```
 
 2. Download the dataset used in the project [here](<!wget https://nkb-backend-otg-media-static.s3.ap-south-1.amazonaws.com/otg_prod/media/Tech_4.0/AI_ML/Datasets/house_price_prediction.csv>) and place it in the root directory.
